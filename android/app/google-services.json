@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120790622904",
+    "project_id": "meetup-f2c9c",
+    "storage_bucket": "meetup-f2c9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120790622904:android:1c3a33e5b04ec032d48a4d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnM3EyGb2zF9aq1Tmm5RIg4zoVYIbw1lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

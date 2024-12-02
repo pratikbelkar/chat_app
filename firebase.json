@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"meetup-f2c9c","appId":"1:120790622904:android:1c3a33e5b04ec032d48a4d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"meetup-f2c9c","configurations":{"android":"1:120790622904:android:1c3a33e5b04ec032d48a4d","ios":"1:120790622904:ios:48bf43cd20ef19c8d48a4d"}}}}}}
